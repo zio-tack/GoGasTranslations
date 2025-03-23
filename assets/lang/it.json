@@ -160,6 +160,10 @@
 	"editorOrderLink": "Link",
 	"editorOrderNotNull": "non nullo",
 	"editorMandatoryField": "Il campo è obbligatorio",
+	"editorNotEmptyDate": "La data non può essere vuota",
+	"editorNotEmptyHour": "L'ora non può essere vuota",
+	"editorOrderOpened": "Ordine aperto con successo",
+	
 
 	"cardsNoItemsOrdered": "Nessun articolo ordinato",
 	"cardsItemsOrdered": "Articoli ordinati: @orderedItems",

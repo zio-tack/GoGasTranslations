@@ -160,6 +160,9 @@
 	"editorOrderLink": "Link",
 	"editorOrderNotNull": "not null",
 	"editorMandatoryField": "Mandatory field",
+	"editorNotEmptyDate": "Date cannot be empty",
+	"editorNotEmptyHour": "Hour cannot be empty",
+	"editorOrderOpened": "Successfully opened order",
 	
 
 	"cardsNoItemsOrdered": "No items ordered",
