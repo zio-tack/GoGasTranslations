@@ -150,7 +150,17 @@
 	"editorIntegerQuantity": "Quantity must be integer",
 	"editorOrderMultipleQuantity": "Quantity must be a multiple of @multiple",
 	"editorOrderTypology": "Order typology",
+	"editorOrderOpeningDate": "Opening date",
+	"editorOrderClosingDate": "Closing date",
+	"editorOrderClosingHour": "Closing hour",
+	"editorOrderDelivery": "Delivery",
+	"editorOrderSyncronize": "Syncronize list",
+	"editorOrderNullify": "Nullify",
+	"editorOrderOK": "OK",
+	"editorOrderLink": "Link",
+	"editorOrderNotNull": "not null",
 	"editorMandatoryField": "Mandatory field",
+	
 
 	"cardsNoItemsOrdered": "No items ordered",
 	"cardsItemsOrdered": "Ordered items: @orderedItems",
