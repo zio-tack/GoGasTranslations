@@ -1,6 +1,8 @@
 {
 	"languageNameEn": "Inglese",
 	"languageNameIt": "Italiano",
+	"languageNameDe": "Tedesco",
+	"languageNameFr": "Francese",
 	"languageSelected_message": "Il linguaggio corrente è @language",
 	"languageSelectionMessage": "Scegli la lingua",
 	"languageSelectionTitle": "Lingua",
